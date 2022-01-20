@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  apiURL: 'http://smarticm.com.mx:8282/CitadelleWebServices/citadelle',\n  securityApiURL: 'http://smarticm.com.mx:8282/SmartJavaWebServices/security',\n  dataBaseId: 'BeekompanyMongoDB',\n  appName: 'Bekompany - Production'\n};","map":null,"metadata":{},"sourceType":"module"}
